@@ -1,1 +1,3 @@
 # Disease-analysis-using-ML
+
+Uses Three ML algorithms Random Forest,Decision Tree and Naive Bayes algorithm to predict the Disease by Symptoms...
